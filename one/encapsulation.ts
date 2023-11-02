@@ -19,7 +19,7 @@ class Developer {
     this.experienceYear = experienceYear;
     this.setPin();
   }
-
+// private method 
   private setPin(): void {
     this.pin = this.experienceYear * 2;
   }
