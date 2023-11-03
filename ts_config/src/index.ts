@@ -1,1 +1,5 @@
-console.log('hellow world')
+function isEmployee (){
+console.log(true)
+}
+
+isEmployee()
